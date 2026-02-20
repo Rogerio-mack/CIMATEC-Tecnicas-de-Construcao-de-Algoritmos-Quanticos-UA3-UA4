@@ -17,7 +17,7 @@ Este relatório apresenta e discute a solução de problemas de otimização no 
 
 ## Conteúdo
 
-- Relatório
-- Parte I - Código: TSP Quantum Annealing
-- Parte II - Código: QPE mínimo (3 qubits)
+- [Relatório](https://github.com/Rogerio-mack/CIMATEC-Tecnicas-de-Construcao-de-Algoritmos-Quanticos-UA3-UA4/blob/main/Cimatec_tecnicas_algoritmos.pdf)
+- [Parte I - Código: TSP Quantum Annealing](https://github.com/Rogerio-mack/CIMATEC-Tecnicas-de-Construcao-de-Algoritmos-Quanticos-UA3-UA4/blob/main/TSP_QAnnealing.ipynb)
+- [Parte II - Código: QPE mínimo (3 qubits)](https://github.com/Rogerio-mack/CIMATEC-Tecnicas-de-Construcao-de-Algoritmos-Quanticos-UA3-UA4/blob/main/QPE.ipynb)
  
